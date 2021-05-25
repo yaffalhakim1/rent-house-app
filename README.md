@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Slicing from design to code using flutter
+
+Design credit:
+https://pixel.buildwithangga.com/details/rent-house-ui-design
 
 A few resources to get you started if this is your first Flutter project:
 
