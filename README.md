@@ -1,13 +1,14 @@
 # rent_house
 
-A new Flutter project.
-
-## Getting Started
-
 Slicing from design to code using flutter
 
 Design credit:
 https://pixel.buildwithangga.com/details/rent-house-ui-design
+
+![image](https://user-images.githubusercontent.com/63090705/119501647-3ca1a200-bd93-11eb-9c27-8a82a1d102d5.png)
+
+
+## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
